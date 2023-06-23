@@ -1,2 +1,2 @@
-# projects
-projects completed while studying Yandex Practicum
+# Projects
+Projects completed while studying Yandex Practicum
